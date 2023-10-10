@@ -50,8 +50,3 @@ python watermark_and_upload.py
 
 - Watermark Position: By default, the watermark is positioned at the bottom right corner of the image. If you want to change the position, you can modify the `add_watermark` function in the script.
 - Watermark Style: The script uses the Arial font for the watermark text. If you want to use a different font or customize the style further, you can modify the `add_watermark` function in the script.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-Feel free to customize the README file further to include any additional information or instructions specific to your use case.
